@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.mcp-s.com?utm_source=github&utm_medium=readme&utm_campaign=mcp-gateway&utm_content=header_logo" target="_blank"><img height="96px" src="https://www.mcp-s.com/logo.png" alt="mcp-gateway logo" /></a>
-  <h1 align="center">MCP-S Gateway<br/>
+  <a href="https://www.webrix.ai?utm_source=github&utm_medium=readme&utm_campaign=mcp-gateway&utm_content=header_logo" target="_blank"><img height="96px" src="https://www.webrix.ai/logo.png" alt="mcp-gateway logo" /></a>
+  <h1 align="center">Webrix MCP-S Gateway<br/>
 A secure, open-source OAuth gateway for MCP authentication</h1>
 </p>
 <p align="center">
@@ -278,7 +278,7 @@ Error [ERR_UNKNOWN_BUILTIN_MODULE]: No such built-in module: node:sqlite
 
 ### Hosted Solution
 
-Visit **[mcp-s.com](https://www.mcp-s.com?utm_source=github&utm_medium=readme&utm_campaign=mcp-gateway&utm_content=hosted_solution_link)** for our fully managed hosting solution with advanced features:
+Visit **[webrix.ai](https://www.webrix.ai?utm_source=github&utm_medium=readme&utm_campaign=mcp-gateway&utm_content=hosted_solution_link)** for our fully managed hosting solution with advanced features:
 
 - **Zero Configuration**: Get started in seconds without any setup
 - **Enterprise-grade Security**: Advanced SSO authentication for all MCP interactions
